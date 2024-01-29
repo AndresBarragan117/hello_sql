@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age=20; --aqui se seleciona todas las columnas de la tabla de users donde la edad sea 20--
